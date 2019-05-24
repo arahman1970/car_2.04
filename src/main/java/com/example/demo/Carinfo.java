@@ -1,7 +1,7 @@
 package com.example.demo;
 
 
-    // Define setter and getters. Program does not do any validations or null value check
+    // Define setter and getters. Program does not do any validations or null value check ..
 
    public class Carinfo {
 
